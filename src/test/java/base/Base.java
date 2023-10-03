@@ -68,5 +68,10 @@ public class Base {
 		System.out.println("new method added");
 	}
 
-
+    public static void riponKhan() {
+        System.out.println("3rd method added");
+    }
+    public static void riponKhan1() {
+        System.out.println("4th method added");
+    }
 }
