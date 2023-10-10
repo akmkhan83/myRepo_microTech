@@ -65,5 +65,7 @@ public class Base {
         System.out.println("new method added");
     }
 
-
+ public static void ripon() {
+        System.out.println("new method added");
+    }
 }
